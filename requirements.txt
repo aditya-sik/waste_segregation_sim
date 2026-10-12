@@ -1,0 +1,4 @@
+# Lightweight dependencies. NumPy is not required: the prototype does no numeric work.
+streamlit>=1.36
+pillow>=10.0
+requests>=2.31
